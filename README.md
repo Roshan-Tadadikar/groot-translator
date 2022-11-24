@@ -1,2 +1,2 @@
 # groot-translator
-This site will translate your to groot's language
+This site will [translate[(https://talk-to-groot-translator.netlify.app/) your to groot's language
