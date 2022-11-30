@@ -11,3 +11,13 @@ check out the website to talk to him in lang
 
 
 This site will [translate](https://talk-to-groot-translator.netlify.app/) your to groot's language
+
+
+Tech Stack Used:
+
+HTML
+
+CSS 
+
+
+JS
